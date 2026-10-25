@@ -1,0 +1,1799 @@
+[
+  {
+    "name": "Vegetable Biryani",
+    "country": "India",
+    "cuisine": "Indian",
+    "category": "Vegetarian",
+    "time": 45,
+    "servings": 4,
+    "ingredients": [
+      "rice",
+      "onion",
+      "carrot",
+      "peas",
+      "potato",
+      "yogurt",
+      "biryani masala"
+    ],
+    "instructions": [
+      "Wash and soak the rice for 20 minutes.",
+      "Sauté sliced onion and vegetables with spices.",
+      "Add rice and water, then cook until fluffy.",
+      "Rest for 10 minutes and serve."
+    ],
+    "description": "Fragrant rice with vegetables and warming spices.",
+    "id": 1
+  },
+  {
+    "name": "Masala Dosa",
+    "country": "India",
+    "cuisine": "Indian",
+    "category": "Vegetarian",
+    "time": 30,
+    "servings": 2,
+    "ingredients": [
+      "dosa batter",
+      "potato",
+      "onion",
+      "mustard seeds",
+      "curry leaves"
+    ],
+    "instructions": [
+      "Cook mustard seeds, curry leaves, onion and mashed potato together.",
+      "Spread dosa batter thinly on a hot pan.",
+      "Add potato filling, fold and serve."
+    ],
+    "description": "Crisp dosa filled with spiced potato.",
+    "id": 2
+  },
+  {
+    "name": "Chana Masala",
+    "country": "India",
+    "cuisine": "Indian",
+    "category": "Vegan",
+    "time": 35,
+    "servings": 3,
+    "ingredients": [
+      "chickpeas",
+      "tomato",
+      "onion",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": [
+      "Sauté onion, garlic and ginger.",
+      "Add tomato and spices and cook until thick.",
+      "Stir in chickpeas and simmer for 15 minutes."
+    ],
+    "description": "A comforting chickpea curry.",
+    "id": 3
+  },
+  {
+    "name": "Margherita Pizza",
+    "country": "Italy",
+    "cuisine": "Italian",
+    "category": "Vegetarian",
+    "time": 35,
+    "servings": 2,
+    "ingredients": [
+      "pizza dough",
+      "tomato",
+      "mozzarella",
+      "basil",
+      "olive oil"
+    ],
+    "instructions": [
+      "Heat oven to 240°C.",
+      "Spread tomato over rolled dough.",
+      "Add mozzarella and basil.",
+      "Bake until the crust is golden."
+    ],
+    "description": "Classic tomato, mozzarella and basil pizza.",
+    "id": 4
+  },
+  {
+    "name": "Spaghetti Aglio e Olio",
+    "country": "Italy",
+    "cuisine": "Italian",
+    "category": "Vegan",
+    "time": 20,
+    "servings": 2,
+    "ingredients": [
+      "spaghetti",
+      "garlic",
+      "olive oil",
+      "chili flakes",
+      "parsley"
+    ],
+    "instructions": [
+      "Boil spaghetti until al dente.",
+      "Gently warm sliced garlic and chili in olive oil.",
+      "Toss pasta with a little pasta water and parsley."
+    ],
+    "description": "Quick garlic and olive oil pasta.",
+    "id": 5
+  },
+  {
+    "name": "Vegetable Fried Rice",
+    "country": "China",
+    "cuisine": "Chinese",
+    "category": "Vegan",
+    "time": 20,
+    "servings": 3,
+    "ingredients": [
+      "cooked rice",
+      "carrot",
+      "peas",
+      "spring onion",
+      "soy sauce",
+      "garlic"
+    ],
+    "instructions": [
+      "Heat a little oil in a wok.",
+      "Stir-fry garlic and chopped vegetables.",
+      "Add rice and soy sauce and toss over high heat.",
+      "Finish with spring onion."
+    ],
+    "description": "A fast way to use leftover rice and vegetables.",
+    "id": 6
+  },
+  {
+    "name": "Egg Fried Rice",
+    "country": "China",
+    "cuisine": "Chinese",
+    "category": "Non-vegetarian",
+    "time": 15,
+    "servings": 2,
+    "ingredients": [
+      "cooked rice",
+      "egg",
+      "spring onion",
+      "soy sauce",
+      "peas"
+    ],
+    "instructions": [
+      "Scramble the eggs in a hot pan and set aside.",
+      "Stir-fry peas and rice.",
+      "Add soy sauce, egg and spring onion; toss well."
+    ],
+    "description": "Simple fried rice with egg.",
+    "id": 7
+  },
+  {
+    "name": "Miso Soup",
+    "country": "Japan",
+    "cuisine": "Japanese",
+    "category": "Vegetarian",
+    "time": 15,
+    "servings": 2,
+    "ingredients": [
+      "miso paste",
+      "tofu",
+      "spring onion",
+      "seaweed",
+      "water"
+    ],
+    "instructions": [
+      "Warm water or dashi without boiling hard.",
+      "Whisk miso paste with a little warm broth.",
+      "Add tofu and seaweed, then stir in miso.",
+      "Top with spring onion."
+    ],
+    "description": "A light Japanese soup.",
+    "id": 8
+  },
+  {
+    "name": "Vegetable Ramen",
+    "country": "Japan",
+    "cuisine": "Japanese",
+    "category": "Vegan",
+    "time": 30,
+    "servings": 2,
+    "ingredients": [
+      "ramen noodles",
+      "mushrooms",
+      "spinach",
+      "soy sauce",
+      "garlic",
+      "spring onion"
+    ],
+    "instructions": [
+      "Cook noodles according to the packet.",
+      "Simmer garlic, mushrooms and soy sauce in broth.",
+      "Add spinach and noodles.",
+      "Serve with spring onion."
+    ],
+    "description": "Warm noodle soup with vegetables.",
+    "id": 9
+  },
+  {
+    "name": "Kimchi Fried Rice",
+    "country": "South Korea",
+    "cuisine": "Korean",
+    "category": "Vegan",
+    "time": 20,
+    "servings": 2,
+    "ingredients": [
+      "cooked rice",
+      "kimchi",
+      "spring onion",
+      "soy sauce",
+      "sesame oil"
+    ],
+    "instructions": [
+      "Chop kimchi and sauté it briefly.",
+      "Add cooked rice and soy sauce.",
+      "Stir-fry until hot and finish with sesame oil."
+    ],
+    "description": "Tangy, savory Korean fried rice.",
+    "id": 10
+  },
+  {
+    "name": "Vegetable Tacos",
+    "country": "Mexico",
+    "cuisine": "Mexican",
+    "category": "Vegan",
+    "time": 25,
+    "servings": 3,
+    "ingredients": [
+      "tortillas",
+      "black beans",
+      "corn",
+      "tomato",
+      "avocado",
+      "lime"
+    ],
+    "instructions": [
+      "Warm the black beans and corn with seasoning.",
+      "Fill tortillas with the mixture.",
+      "Top with tomato, avocado and lime juice."
+    ],
+    "description": "Fresh tacos with beans, corn and avocado.",
+    "id": 11
+  },
+  {
+    "name": "Guacamole",
+    "country": "Mexico",
+    "cuisine": "Mexican",
+    "category": "Vegan",
+    "time": 10,
+    "servings": 4,
+    "ingredients": [
+      "avocado",
+      "lime",
+      "tomato",
+      "onion",
+      "cilantro"
+    ],
+    "instructions": [
+      "Mash avocado with lime juice.",
+      "Fold in chopped tomato, onion and cilantro.",
+      "Season and serve immediately."
+    ],
+    "description": "Creamy avocado dip.",
+    "id": 12
+  },
+  {
+    "name": "Pad Thai-Style Noodles",
+    "country": "Thailand",
+    "cuisine": "Thai",
+    "category": "Vegetarian",
+    "time": 25,
+    "servings": 2,
+    "ingredients": [
+      "rice noodles",
+      "egg",
+      "bean sprouts",
+      "peanuts",
+      "lime",
+      "soy sauce"
+    ],
+    "instructions": [
+      "Soak or cook rice noodles as directed.",
+      "Scramble egg in a hot pan.",
+      "Add noodles and sauce, then toss with sprouts.",
+      "Serve with crushed peanuts and lime."
+    ],
+    "description": "A quick home-style noodle dish inspired by pad thai.",
+    "id": 13
+  },
+  {
+    "name": "Thai Coconut Vegetable Curry",
+    "country": "Thailand",
+    "cuisine": "Thai",
+    "category": "Vegan",
+    "time": 30,
+    "servings": 3,
+    "ingredients": [
+      "coconut milk",
+      "bell pepper",
+      "carrot",
+      "broccoli",
+      "curry paste",
+      "rice"
+    ],
+    "instructions": [
+      "Cook curry paste briefly in a saucepan.",
+      "Add coconut milk and chopped vegetables.",
+      "Simmer until vegetables are tender.",
+      "Serve with rice."
+    ],
+    "description": "Creamy coconut curry with vegetables.",
+    "id": 14
+  },
+  {
+    "name": "Falafel",
+    "country": "Egypt",
+    "cuisine": "Egyptian / Middle Eastern",
+    "category": "Vegan",
+    "time": 35,
+    "servings": 3,
+    "ingredients": [
+      "chickpeas",
+      "parsley",
+      "onion",
+      "garlic",
+      "cumin",
+      "flour"
+    ],
+    "instructions": [
+      "Pulse soaked chickpeas with herbs, onion and spices.",
+      "Shape into small patties and chill briefly.",
+      "Pan-fry or bake until crisp and cooked through."
+    ],
+    "description": "Herby chickpea patties.",
+    "id": 15
+  },
+  {
+    "name": "Hummus",
+    "country": "Lebanon",
+    "cuisine": "Lebanese",
+    "category": "Vegan",
+    "time": 10,
+    "servings": 4,
+    "ingredients": [
+      "chickpeas",
+      "tahini",
+      "lemon",
+      "garlic",
+      "olive oil"
+    ],
+    "instructions": [
+      "Blend chickpeas, tahini, lemon and garlic.",
+      "Add water gradually until smooth.",
+      "Finish with olive oil."
+    ],
+    "description": "Smooth chickpea and tahini dip.",
+    "id": 16
+  },
+  {
+    "name": "Shakshuka",
+    "country": "Tunisia",
+    "cuisine": "North African",
+    "category": "Vegetarian",
+    "time": 30,
+    "servings": 2,
+    "ingredients": [
+      "egg",
+      "tomato",
+      "bell pepper",
+      "onion",
+      "paprika"
+    ],
+    "instructions": [
+      "Cook onion and pepper until soft.",
+      "Add tomatoes and paprika and simmer until thick.",
+      "Make wells and add eggs.",
+      "Cover until eggs reach your preferred doneness."
+    ],
+    "description": "Eggs gently cooked in spiced tomato sauce.",
+    "id": 17
+  },
+  {
+    "name": "French Ratatouille",
+    "country": "France",
+    "cuisine": "French",
+    "category": "Vegan",
+    "time": 45,
+    "servings": 4,
+    "ingredients": [
+      "eggplant",
+      "zucchini",
+      "tomato",
+      "bell pepper",
+      "onion",
+      "garlic"
+    ],
+    "instructions": [
+      "Slice vegetables evenly.",
+      "Sauté onion and garlic, then add tomato.",
+      "Layer or stir in remaining vegetables.",
+      "Cover and cook until tender."
+    ],
+    "description": "Rustic Provençal vegetable stew.",
+    "id": 18
+  },
+  {
+    "name": "Crêpes",
+    "country": "France",
+    "cuisine": "French",
+    "category": "Vegetarian",
+    "time": 20,
+    "servings": 4,
+    "ingredients": [
+      "flour",
+      "milk",
+      "egg",
+      "butter",
+      "sugar"
+    ],
+    "instructions": [
+      "Whisk flour, milk and egg into a smooth batter.",
+      "Rest for 10 minutes if possible.",
+      "Cook thin layers in a lightly buttered pan, flipping once."
+    ],
+    "description": "Thin French pancakes for sweet or savory fillings.",
+    "id": 19
+  },
+  {
+    "name": "Spanish Patatas Bravas",
+    "country": "Spain",
+    "cuisine": "Spanish",
+    "category": "Vegan",
+    "time": 35,
+    "servings": 3,
+    "ingredients": [
+      "potato",
+      "tomato",
+      "garlic",
+      "paprika",
+      "olive oil"
+    ],
+    "instructions": [
+      "Cube potatoes and roast or pan-fry until crisp.",
+      "Cook tomato, garlic and paprika into a sauce.",
+      "Serve potatoes with the sauce."
+    ],
+    "description": "Crispy potatoes with a smoky tomato sauce.",
+    "id": 20
+  },
+  {
+    "name": "Vegetable Paella",
+    "country": "Spain",
+    "cuisine": "Spanish",
+    "category": "Vegan",
+    "time": 40,
+    "servings": 4,
+    "ingredients": [
+      "rice",
+      "bell pepper",
+      "peas",
+      "tomato",
+      "saffron",
+      "vegetable stock"
+    ],
+    "instructions": [
+      "Sauté pepper and tomato in a wide pan.",
+      "Stir in rice and saffron.",
+      "Add hot stock and peas; simmer without stirring much until rice is tender."
+    ],
+    "description": "Spanish-style rice with vegetables and saffron.",
+    "id": 21
+  },
+  {
+    "name": "Greek Salad",
+    "country": "Greece",
+    "cuisine": "Greek",
+    "category": "Vegetarian",
+    "time": 15,
+    "servings": 2,
+    "ingredients": [
+      "tomato",
+      "cucumber",
+      "feta",
+      "olive",
+      "onion",
+      "olive oil"
+    ],
+    "instructions": [
+      "Chop tomato, cucumber and onion.",
+      "Add olives and feta.",
+      "Dress with olive oil and oregano."
+    ],
+    "description": "Fresh salad with feta and olives.",
+    "id": 22
+  },
+  {
+    "name": "Pancakes",
+    "country": "United States",
+    "cuisine": "American",
+    "category": "Vegetarian",
+    "time": 20,
+    "servings": 3,
+    "ingredients": [
+      "flour",
+      "milk",
+      "egg",
+      "baking powder",
+      "butter"
+    ],
+    "instructions": [
+      "Mix dry ingredients in one bowl.",
+      "Whisk milk and egg, then combine gently.",
+      "Cook small portions on a lightly greased pan until bubbles form; flip."
+    ],
+    "description": "Fluffy breakfast pancakes.",
+    "id": 23
+  },
+  {
+    "name": "Black Bean Quesadillas",
+    "country": "Mexico",
+    "cuisine": "Mexican",
+    "category": "Vegetarian",
+    "time": 20,
+    "servings": 2,
+    "ingredients": [
+      "tortillas",
+      "black beans",
+      "cheese",
+      "corn",
+      "bell pepper"
+    ],
+    "instructions": [
+      "Mash beans lightly and mix with corn and pepper.",
+      "Spread filling and cheese on half a tortilla.",
+      "Fold and toast on both sides until crisp."
+    ],
+    "description": "Crispy tortillas filled with beans and cheese.",
+    "id": 24
+  },
+  {
+    "name": "Bibimbap-Inspired Bowl",
+    "country": "South Korea",
+    "cuisine": "Korean",
+    "category": "Vegetarian",
+    "time": 30,
+    "servings": 2,
+    "ingredients": [
+      "rice",
+      "carrot",
+      "spinach",
+      "mushrooms",
+      "egg",
+      "sesame oil"
+    ],
+    "instructions": [
+      "Cook rice and prepare vegetables separately.",
+      "Sauté mushrooms and wilt spinach.",
+      "Arrange vegetables over rice and add a cooked egg.",
+      "Serve with a suitable sauce if available."
+    ],
+    "description": "A colorful Korean-inspired rice bowl.",
+    "id": 25
+  },
+  {
+    "name": "Bunny Chow-Inspired Curry Bread",
+    "country": "South Africa",
+    "cuisine": "South African",
+    "category": "Vegan",
+    "time": 40,
+    "servings": 3,
+    "ingredients": [
+      "bread loaf",
+      "chickpeas",
+      "tomato",
+      "onion",
+      "curry powder"
+    ],
+    "instructions": [
+      "Sauté onion with curry powder.",
+      "Add tomato and chickpeas and simmer until thick.",
+      "Hollow out bread portions and fill with curry."
+    ],
+    "description": "A plant-based take inspired by a South African street-food favorite.",
+    "id": 26
+  },
+  {
+    "name": "Jollof Rice",
+    "country": "Nigeria",
+    "cuisine": "West African",
+    "category": "Vegan",
+    "time": 45,
+    "servings": 4,
+    "ingredients": [
+      "rice",
+      "tomato",
+      "bell pepper",
+      "onion",
+      "garlic",
+      "thyme"
+    ],
+    "instructions": [
+      "Blend tomato, pepper and onion.",
+      "Cook the blended mixture with spices until reduced.",
+      "Add washed rice and stock, cover and cook until tender."
+    ],
+    "description": "A beloved West African tomato rice dish.",
+    "id": 27
+  },
+  {
+    "name": "Injera-Style Lentil Stew",
+    "country": "Ethiopia",
+    "cuisine": "Ethiopian",
+    "category": "Vegan",
+    "time": 40,
+    "servings": 3,
+    "ingredients": [
+      "red lentils",
+      "onion",
+      "tomato",
+      "garlic",
+      "berbere spice"
+    ],
+    "instructions": [
+      "Sauté onion and garlic.",
+      "Add tomato, spice and rinsed lentils.",
+      "Add water and simmer until soft, stirring as needed."
+    ],
+    "description": "A simple lentil stew inspired by Ethiopian misir wot.",
+    "id": 28
+  },
+  {
+    "name": "Pierogi-Inspired Potato Dumplings",
+    "country": "Poland",
+    "cuisine": "Polish",
+    "category": "Vegetarian",
+    "time": 50,
+    "servings": 4,
+    "ingredients": [
+      "flour",
+      "potato",
+      "onion",
+      "butter",
+      "cheese"
+    ],
+    "instructions": [
+      "Make a simple dough with flour and water.",
+      "Prepare mashed potato with onion and cheese.",
+      "Fill and seal small dough rounds.",
+      "Boil until they float, then optionally pan-fry."
+    ],
+    "description": "Homestyle potato-filled dumplings inspired by pierogi.",
+    "id": 29
+  },
+  {
+    "name": "Vegetable Sushi Rolls",
+    "country": "Japan",
+    "cuisine": "Japanese",
+    "category": "Vegan",
+    "time": 40,
+    "servings": 3,
+    "ingredients": [
+      "sushi rice",
+      "nori",
+      "cucumber",
+      "carrot",
+      "avocado",
+      "rice vinegar"
+    ],
+    "instructions": [
+      "Cook sushi rice and season with rice vinegar.",
+      "Place rice on nori and add vegetable strips.",
+      "Roll tightly and slice with a sharp damp knife."
+    ],
+    "description": "Fresh vegetable sushi rolls.",
+    "id": 30
+  },
+  {
+    "name": "Pesto Pasta",
+    "country": "Italy",
+    "cuisine": "Italian",
+    "category": "Vegetarian",
+    "time": 20,
+    "servings": 2,
+    "ingredients": [
+      "pasta",
+      "basil",
+      "parmesan",
+      "olive oil",
+      "garlic",
+      "nuts"
+    ],
+    "instructions": [
+      "Cook pasta and reserve some pasta water.",
+      "Blend basil, garlic, nuts, cheese and olive oil.",
+      "Toss pasta with pesto and a splash of pasta water."
+    ],
+    "description": "Pasta coated in fragrant basil pesto.",
+    "id": 31
+  },
+  {
+    "name": "Couscous Vegetable Bowl",
+    "country": "Morocco",
+    "cuisine": "Moroccan",
+    "category": "Vegan",
+    "time": 25,
+    "servings": 3,
+    "ingredients": [
+      "couscous",
+      "chickpeas",
+      "carrot",
+      "zucchini",
+      "raisins",
+      "cumin"
+    ],
+    "instructions": [
+      "Pour hot stock over couscous and cover.",
+      "Cook chopped vegetables with cumin until tender.",
+      "Fold in chickpeas and raisins; serve over couscous."
+    ],
+    "description": "A North African-inspired couscous bowl.",
+    "id": 32
+  },
+  {
+    "name": "Pav Bhaji",
+    "country": "India",
+    "cuisine": "Indian",
+    "category": "Vegetarian",
+    "time": 35,
+    "servings": 3,
+    "ingredients": [
+      "potato",
+      "tomato",
+      "peas",
+      "cauliflower",
+      "onion",
+      "pav bhaji masala",
+      "bread rolls"
+    ],
+    "instructions": [
+      "Boil and mash vegetables.",
+      "Cook onion and tomato with pav bhaji masala.",
+      "Mix in vegetables and simmer until rich.",
+      "Serve with toasted bread rolls."
+    ],
+    "description": "Mumbai-style spiced mashed vegetables with bread.",
+    "id": 33
+  },
+  {
+    "name": "Vegetable Momos",
+    "country": "Nepal",
+    "cuisine": "Nepalese",
+    "category": "Vegan",
+    "time": 40,
+    "servings": 3,
+    "ingredients": [
+      "flour",
+      "cabbage",
+      "carrot",
+      "spring onion",
+      "garlic",
+      "soy sauce"
+    ],
+    "instructions": [
+      "Make a firm dough and rest it.",
+      "Mix finely chopped vegetables with garlic and soy sauce.",
+      "Fill dough rounds and seal.",
+      "Steam until the wrappers are cooked."
+    ],
+    "description": "Steamed vegetable dumplings.",
+    "id": 34
+  },
+  {
+    "name": "Adobo-Inspired Tofu",
+    "country": "Philippines",
+    "cuisine": "Filipino-inspired",
+    "category": "Vegan",
+    "time": 30,
+    "servings": 2,
+    "ingredients": [
+      "tofu",
+      "soy sauce",
+      "vinegar",
+      "garlic",
+      "bay leaf",
+      "rice"
+    ],
+    "instructions": [
+      "Press and cube tofu, then brown it in a pan.",
+      "Add garlic, soy sauce, vinegar and bay leaf.",
+      "Simmer until the sauce reduces; serve with rice."
+    ],
+    "description": "A plant-based dish inspired by Filipino adobo flavors.",
+    "id": 35
+  },
+  {
+    "name": "Poutine-Inspired Potato Bowl",
+    "country": "Canada",
+    "cuisine": "Canadian-inspired",
+    "category": "Vegetarian",
+    "time": 35,
+    "servings": 2,
+    "ingredients": [
+      "potato",
+      "cheese curds",
+      "gravy"
+    ],
+    "instructions": [
+      "Cut potatoes into fries and bake or fry until crisp.",
+      "Warm the gravy.",
+      "Top fries with cheese curds and hot gravy."
+    ],
+    "description": "A home-style take on a Canadian comfort food.",
+    "id": 36
+  },
+  {
+    "name": "Vegemite Toast",
+    "country": "Australia",
+    "cuisine": "Australian",
+    "category": "Vegetarian",
+    "time": 5,
+    "servings": 1,
+    "ingredients": [
+      "bread",
+      "butter",
+      "vegemite"
+    ],
+    "instructions": [
+      "Toast bread until golden.",
+      "Spread with butter.",
+      "Add a very thin layer of Vegemite and serve."
+    ],
+    "description": "A simple Australian breakfast snack.",
+    "id": 37
+  },
+  {
+    "name": "Brazilian Black Bean Stew",
+    "country": "Brazil",
+    "cuisine": "Brazilian-inspired",
+    "category": "Vegan",
+    "time": 40,
+    "servings": 4,
+    "ingredients": [
+      "black beans",
+      "onion",
+      "garlic",
+      "tomato",
+      "cumin",
+      "rice"
+    ],
+    "instructions": [
+      "Sauté onion and garlic.",
+      "Add cooked black beans, tomato and cumin.",
+      "Simmer until flavors combine and serve with rice."
+    ],
+    "description": "A comforting black bean stew inspired by Brazilian flavors.",
+    "id": 38
+  },
+  {
+    "name": "Peruvian Avocado Toast",
+    "country": "Peru",
+    "cuisine": "Peruvian-inspired",
+    "category": "Vegan",
+    "time": 10,
+    "servings": 2,
+    "ingredients": [
+      "bread",
+      "avocado",
+      "lime",
+      "tomato",
+      "cilantro"
+    ],
+    "instructions": [
+      "Toast the bread.",
+      "Mash avocado with lime and a pinch of salt.",
+      "Spread on toast and top with tomato and cilantro."
+    ],
+    "description": "Fresh avocado toast with bright lime.",
+    "id": 39
+  },
+  {
+    "name": "Swiss Cheese Rösti",
+    "country": "Switzerland",
+    "cuisine": "Swiss",
+    "category": "Vegetarian",
+    "time": 30,
+    "servings": 2,
+    "ingredients": [
+      "potato",
+      "butter",
+      "cheese",
+      "salt",
+      "pepper"
+    ],
+    "instructions": [
+      "Grate potatoes and squeeze out excess moisture.",
+      "Mix with seasoning and optional grated cheese.",
+      "Press into a hot buttered pan and cook until crisp on both sides."
+    ],
+    "description": "Crispy Swiss-style grated potato cake.",
+    "id": 40
+  },
+  {
+    "name": "Turkish Menemen",
+    "country": "Türkiye",
+    "cuisine": "Turkish",
+    "category": "Vegetarian",
+    "time": 20,
+    "servings": 2,
+    "ingredients": [
+      "egg",
+      "tomato",
+      "bell pepper",
+      "onion",
+      "olive oil"
+    ],
+    "instructions": [
+      "Sauté onion and pepper until soft.",
+      "Add chopped tomato and cook until saucy.",
+      "Add beaten eggs and stir gently until just set."
+    ],
+    "description": "Soft scrambled eggs with tomatoes and peppers.",
+    "id": 41
+  },
+  {
+    "name": "Swedish Potato Hash",
+    "country": "Sweden",
+    "cuisine": "Swedish-inspired",
+    "category": "Vegetarian",
+    "time": 25,
+    "servings": 2,
+    "ingredients": [
+      "potato",
+      "onion",
+      "butter",
+      "egg",
+      "parsley"
+    ],
+    "instructions": [
+      "Dice cooked potatoes and onion.",
+      "Pan-fry in butter until browned.",
+      "Serve with a fried egg and parsley."
+    ],
+    "description": "A simple Scandinavian-style potato hash.",
+    "id": 42
+  },
+  {
+    "name": "Vietnamese Fresh Spring Rolls",
+    "country": "Vietnam",
+    "cuisine": "Vietnamese",
+    "category": "Vegan",
+    "time": 25,
+    "servings": 2,
+    "ingredients": [
+      "rice paper",
+      "rice noodles",
+      "lettuce",
+      "carrot",
+      "cucumber",
+      "mint"
+    ],
+    "instructions": [
+      "Prepare noodles and cut vegetables into thin strips.",
+      "Soften rice paper in water briefly.",
+      "Add noodles, vegetables and mint, then roll tightly."
+    ],
+    "description": "Fresh rice-paper rolls with crisp vegetables.",
+    "id": 43
+  },
+  {
+    "name": "Indonesian Peanut Noodles",
+    "country": "Indonesia",
+    "cuisine": "Indonesian-inspired",
+    "category": "Vegan",
+    "time": 20,
+    "servings": 2,
+    "ingredients": [
+      "noodles",
+      "peanut butter",
+      "soy sauce",
+      "lime",
+      "garlic",
+      "cucumber"
+    ],
+    "instructions": [
+      "Cook noodles and rinse briefly if desired.",
+      "Mix peanut butter with soy sauce, lime, garlic and warm water.",
+      "Toss noodles with sauce and top with cucumber."
+    ],
+    "description": "Noodles with a quick peanut-lime sauce.",
+    "id": 44
+  },
+  {
+    "name": "Malaysian Coconut Rice Bowl",
+    "country": "Malaysia",
+    "cuisine": "Malaysian-inspired",
+    "category": "Vegan",
+    "time": 30,
+    "servings": 2,
+    "ingredients": [
+      "rice",
+      "coconut milk",
+      "cucumber",
+      "peanuts",
+      "chili"
+    ],
+    "instructions": [
+      "Cook rice with coconut milk and water.",
+      "Slice cucumber and prepare peanuts.",
+      "Serve rice with cucumber, peanuts and chili to taste."
+    ],
+    "description": "A simplified coconut rice bowl inspired by nasi lemak.",
+    "id": 45
+  },
+  {
+    "name": "German Potato Salad",
+    "country": "Germany",
+    "cuisine": "German",
+    "category": "Vegan",
+    "time": 25,
+    "servings": 3,
+    "ingredients": [
+      "potato",
+      "onion",
+      "mustard",
+      "vinegar",
+      "vegetable stock",
+      "parsley"
+    ],
+    "instructions": [
+      "Boil potatoes until tender and slice.",
+      "Warm onion with stock, vinegar and mustard.",
+      "Toss with potatoes and parsley; serve warm."
+    ],
+    "description": "Tangy potato salad with mustard dressing.",
+    "id": 46
+  },
+  {
+    "name": "British Jacket Potato",
+    "country": "United Kingdom",
+    "cuisine": "British",
+    "category": "Vegetarian",
+    "time": 60,
+    "servings": 1,
+    "ingredients": [
+      "potato",
+      "cheese",
+      "beans",
+      "butter"
+    ],
+    "instructions": [
+      "Prick potato and bake at 200°C until tender.",
+      "Split and fluff the inside with butter.",
+      "Top with beans and cheese."
+    ],
+    "description": "A baked potato with a hearty topping.",
+    "id": 47
+  },
+  {
+    "name": "Argentinian Chimichurri Bean Bowl",
+    "country": "Argentina",
+    "cuisine": "Argentinian-inspired",
+    "category": "Vegan",
+    "time": 20,
+    "servings": 2,
+    "ingredients": [
+      "beans",
+      "parsley",
+      "garlic",
+      "olive oil",
+      "vinegar",
+      "rice"
+    ],
+    "instructions": [
+      "Mix parsley, garlic, olive oil and vinegar for chimichurri.",
+      "Warm beans with seasoning.",
+      "Serve over rice with the herb sauce."
+    ],
+    "description": "A plant-based bowl with a bright herb sauce.",
+    "id": 48
+  },
+  {
+    "name": "Sri Lankan Coconut Lentils",
+    "country": "Sri Lanka",
+    "cuisine": "Sri Lankan-inspired",
+    "category": "Vegan",
+    "time": 30,
+    "servings": 3,
+    "ingredients": [
+      "red lentils",
+      "coconut milk",
+      "turmeric",
+      "onion",
+      "curry leaves"
+    ],
+    "instructions": [
+      "Rinse lentils and simmer with water and turmeric.",
+      "Add coconut milk and cook until soft.",
+      "Sauté onion and curry leaves and stir through."
+    ],
+    "description": "Creamy coconut lentils inspired by parippu.",
+    "id": 49
+  },
+  {
+    "name": "Pakistani Chana Pulao",
+    "country": "Pakistan",
+    "cuisine": "Pakistani",
+    "category": "Vegan",
+    "time": 35,
+    "servings": 3,
+    "ingredients": [
+      "rice",
+      "chickpeas",
+      "onion",
+      "cumin",
+      "garam masala"
+    ],
+    "instructions": [
+      "Sauté onion and spices.",
+      "Add chickpeas and washed rice.",
+      "Add water and cook covered until rice is tender."
+    ],
+    "description": "Spiced rice cooked with chickpeas.",
+    "id": 50
+  },
+  {
+    "name": "Bangladeshi Khichuri-Inspired Rice",
+    "country": "Bangladesh",
+    "cuisine": "Bangladeshi-inspired",
+    "category": "Vegetarian",
+    "time": 35,
+    "servings": 3,
+    "ingredients": [
+      "rice",
+      "red lentils",
+      "turmeric",
+      "onion",
+      "ginger"
+    ],
+    "instructions": [
+      "Rinse rice and lentils.",
+      "Sauté onion and ginger with turmeric.",
+      "Add rice, lentils and water; simmer until soft."
+    ],
+    "description": "Comforting rice and lentils inspired by khichuri.",
+    "id": 51
+  },
+  {
+    "name": "Afghan Carrot Rice Bowl",
+    "country": "Afghanistan",
+    "cuisine": "Afghan-inspired",
+    "category": "Vegan",
+    "time": 35,
+    "servings": 3,
+    "ingredients": [
+      "rice",
+      "carrot",
+      "raisins",
+      "cumin",
+      "onion"
+    ],
+    "instructions": [
+      "Cook rice until nearly tender.",
+      "Sauté shredded carrot with cumin and onion.",
+      "Fold through rice with raisins and steam until done."
+    ],
+    "description": "A simple sweet-savory rice dish inspired by Afghan flavors.",
+    "id": 52
+  },
+  {
+    "name": "Iranian Herb Rice Bowl",
+    "country": "Iran",
+    "cuisine": "Persian-inspired",
+    "category": "Vegetarian",
+    "time": 30,
+    "servings": 2,
+    "ingredients": [
+      "rice",
+      "parsley",
+      "dill",
+      "cilantro",
+      "yogurt"
+    ],
+    "instructions": [
+      "Cook rice until fluffy.",
+      "Chop herbs and fold through rice or serve alongside.",
+      "Add yogurt as a cool accompaniment."
+    ],
+    "description": "Herb-forward rice inspired by Persian sabzi polo.",
+    "id": 53
+  },
+  {
+    "name": "Russian Olivier-Inspired Salad",
+    "country": "Russia",
+    "cuisine": "Russian-inspired",
+    "category": "Vegetarian",
+    "time": 30,
+    "servings": 3,
+    "ingredients": [
+      "potato",
+      "carrot",
+      "peas",
+      "egg",
+      "yogurt"
+    ],
+    "instructions": [
+      "Boil potatoes, carrots and eggs, then cool and dice.",
+      "Mix with peas and yogurt dressing.",
+      "Chill before serving."
+    ],
+    "description": "A lighter home-style salad inspired by Olivier salad.",
+    "id": 54
+  },
+  {
+    "name": "Ukrainian Beet Soup-Inspired Bowl",
+    "country": "Ukraine",
+    "cuisine": "Ukrainian-inspired",
+    "category": "Vegan",
+    "time": 40,
+    "servings": 3,
+    "ingredients": [
+      "beetroot",
+      "cabbage",
+      "potato",
+      "carrot",
+      "onion",
+      "tomato"
+    ],
+    "instructions": [
+      "Sauté onion and carrot.",
+      "Add diced beetroot, potato, cabbage, tomato and stock.",
+      "Simmer until all vegetables are tender."
+    ],
+    "description": "A vegetable soup inspired by borscht.",
+    "id": 55
+  },
+  {
+    "name": "Dutch Potato and Vegetable Mash",
+    "country": "Netherlands",
+    "cuisine": "Dutch-inspired",
+    "category": "Vegetarian",
+    "time": 30,
+    "servings": 3,
+    "ingredients": [
+      "potato",
+      "kale",
+      "milk",
+      "butter",
+      "pepper"
+    ],
+    "instructions": [
+      "Boil potatoes and kale until tender.",
+      "Drain and mash with milk and butter.",
+      "Season and serve warm."
+    ],
+    "description": "A simple mash inspired by Dutch stamppot.",
+    "id": 56
+  },
+  {
+    "name": "Belgian Leek Soup",
+    "country": "Belgium",
+    "cuisine": "Belgian-inspired",
+    "category": "Vegetarian",
+    "time": 30,
+    "servings": 3,
+    "ingredients": [
+      "leek",
+      "potato",
+      "onion",
+      "vegetable stock",
+      "cream"
+    ],
+    "instructions": [
+      "Sauté leek and onion.",
+      "Add potato and stock; simmer until soft.",
+      "Blend until smooth and stir in cream."
+    ],
+    "description": "Creamy leek and potato soup.",
+    "id": 57
+  },
+  {
+    "name": "Austrian Apple Pancakes",
+    "country": "Austria",
+    "cuisine": "Austrian-inspired",
+    "category": "Vegetarian",
+    "time": 25,
+    "servings": 2,
+    "ingredients": [
+      "apple",
+      "flour",
+      "milk",
+      "egg",
+      "cinnamon"
+    ],
+    "instructions": [
+      "Mix flour, milk and egg into batter.",
+      "Fold in thin apple slices and cinnamon.",
+      "Cook small pancakes until golden on both sides."
+    ],
+    "description": "Apple pancakes inspired by Central European home cooking.",
+    "id": 58
+  },
+  {
+    "name": "Hungarian Paprika Potato Stew",
+    "country": "Hungary",
+    "cuisine": "Hungarian-inspired",
+    "category": "Vegan",
+    "time": 35,
+    "servings": 3,
+    "ingredients": [
+      "potato",
+      "onion",
+      "paprika",
+      "tomato",
+      "bell pepper"
+    ],
+    "instructions": [
+      "Sauté onion and bell pepper.",
+      "Add paprika, tomato and diced potato.",
+      "Add water and simmer until potatoes are tender."
+    ],
+    "description": "A warming paprika-seasoned potato stew.",
+    "id": 59
+  },
+  {
+    "name": "Romanian Polenta Bowl",
+    "country": "Romania",
+    "cuisine": "Romanian-inspired",
+    "category": "Vegetarian",
+    "time": 20,
+    "servings": 2,
+    "ingredients": [
+      "cornmeal",
+      "water",
+      "salt",
+      "cheese",
+      "yogurt"
+    ],
+    "instructions": [
+      "Bring salted water to a simmer.",
+      "Whisk in cornmeal gradually and cook until thick.",
+      "Serve with cheese and yogurt if desired."
+    ],
+    "description": "A simple polenta dish inspired by mămăligă.",
+    "id": 60
+  },
+  {
+    "name": "Georgian Bean Stew",
+    "country": "Georgia",
+    "cuisine": "Georgian-inspired",
+    "category": "Vegan",
+    "time": 35,
+    "servings": 3,
+    "ingredients": [
+      "kidney beans",
+      "onion",
+      "garlic",
+      "cilantro",
+      "coriander"
+    ],
+    "instructions": [
+      "Sauté onion and garlic.",
+      "Add cooked beans and spices with a splash of water.",
+      "Simmer, then finish with chopped cilantro."
+    ],
+    "description": "A bean stew inspired by Georgian lobio.",
+    "id": 61
+  },
+  {
+    "name": "Armenian Lentil Soup",
+    "country": "Armenia",
+    "cuisine": "Armenian-inspired",
+    "category": "Vegan",
+    "time": 35,
+    "servings": 3,
+    "ingredients": [
+      "lentils",
+      "onion",
+      "carrot",
+      "tomato",
+      "cumin"
+    ],
+    "instructions": [
+      "Sauté onion and carrot.",
+      "Add lentils, tomato, cumin and stock.",
+      "Simmer until lentils are tender."
+    ],
+    "description": "A hearty lentil soup.",
+    "id": 62
+  },
+  {
+    "name": "Israeli Shakshuka Bowl",
+    "country": "Israel",
+    "cuisine": "Levantine-inspired",
+    "category": "Vegetarian",
+    "time": 25,
+    "servings": 2,
+    "ingredients": [
+      "egg",
+      "tomato",
+      "bell pepper",
+      "onion",
+      "paprika"
+    ],
+    "instructions": [
+      "Cook onion and pepper until softened.",
+      "Add tomato and paprika and simmer.",
+      "Add eggs and cover until set."
+    ],
+    "description": "Eggs in a rich tomato-pepper sauce.",
+    "id": 63
+  },
+  {
+    "name": "Saudi Arabian Spiced Rice",
+    "country": "Saudi Arabia",
+    "cuisine": "Arabian-inspired",
+    "category": "Vegan",
+    "time": 35,
+    "servings": 3,
+    "ingredients": [
+      "rice",
+      "tomato",
+      "carrot",
+      "onion",
+      "cumin",
+      "cinnamon"
+    ],
+    "instructions": [
+      "Sauté onion with cumin and a pinch of cinnamon.",
+      "Add tomato, carrot, rice and stock.",
+      "Cover and cook until rice is tender."
+    ],
+    "description": "A simple aromatic rice dish inspired by kabsa flavors.",
+    "id": 64
+  },
+  {
+    "name": "Kenyan Githeri",
+    "country": "Kenya",
+    "cuisine": "Kenyan",
+    "category": "Vegan",
+    "time": 30,
+    "servings": 3,
+    "ingredients": [
+      "beans",
+      "corn",
+      "tomato",
+      "onion",
+      "potato"
+    ],
+    "instructions": [
+      "Sauté onion and tomato.",
+      "Add cooked beans, corn and diced potato.",
+      "Add a little water and simmer until tender."
+    ],
+    "description": "A hearty beans-and-maize dish.",
+    "id": 65
+  },
+  {
+    "name": "Ghanaian Red Red-Inspired Beans",
+    "country": "Ghana",
+    "cuisine": "Ghanaian-inspired",
+    "category": "Vegan",
+    "time": 35,
+    "servings": 3,
+    "ingredients": [
+      "black-eyed peas",
+      "tomato",
+      "onion",
+      "garlic",
+      "paprika"
+    ],
+    "instructions": [
+      "Cook black-eyed peas until tender.",
+      "Sauté onion, garlic and tomato with paprika.",
+      "Stir beans into the sauce and simmer."
+    ],
+    "description": "A tomato-rich bean stew inspired by Ghanaian red red.",
+    "id": 66
+  },
+  {
+    "name": "Ecuadorian Corn and Bean Bowl",
+    "country": "Ecuador",
+    "cuisine": "Ecuadorian-inspired",
+    "category": "Vegan",
+    "time": 20,
+    "servings": 2,
+    "ingredients": [
+      "corn",
+      "beans",
+      "tomato",
+      "avocado",
+      "lime"
+    ],
+    "instructions": [
+      "Warm beans and corn with seasoning.",
+      "Chop tomato and avocado.",
+      "Combine and finish with lime juice."
+    ],
+    "description": "A fresh, quick Andean-inspired bowl.",
+    "id": 67
+  },
+  {
+    "name": "Chilean Tomato Bread",
+    "country": "Chile",
+    "cuisine": "Chilean-inspired",
+    "category": "Vegan",
+    "time": 10,
+    "servings": 2,
+    "ingredients": [
+      "bread",
+      "tomato",
+      "olive oil",
+      "garlic",
+      "salt"
+    ],
+    "instructions": [
+      "Toast or warm the bread.",
+      "Rub lightly with garlic if desired.",
+      "Top with grated tomato, olive oil and salt."
+    ],
+    "description": "A simple tomato-topped bread inspired by pan con tomate traditions across the region.",
+    "id": 68
+  },
+  {
+    "name": "Uruguayan Cheese Toast",
+    "country": "Uruguay",
+    "cuisine": "Uruguayan-inspired",
+    "category": "Vegetarian",
+    "time": 15,
+    "servings": 2,
+    "ingredients": [
+      "bread",
+      "cheese",
+      "tomato",
+      "oregano"
+    ],
+    "instructions": [
+      "Top bread with tomato and cheese.",
+      "Sprinkle with oregano.",
+      "Toast until the cheese melts."
+    ],
+    "description": "A quick toasted cheese snack.",
+    "id": 69
+  },
+  {
+    "name": "New Zealand Kumara Roast",
+    "country": "New Zealand",
+    "cuisine": "New Zealand-inspired",
+    "category": "Vegan",
+    "time": 35,
+    "servings": 3,
+    "ingredients": [
+      "sweet potato",
+      "olive oil",
+      "rosemary",
+      "salt",
+      "pepper"
+    ],
+    "instructions": [
+      "Cut sweet potato into wedges.",
+      "Toss with oil, rosemary and seasoning.",
+      "Roast at 200°C until tender and browned."
+    ],
+    "description": "Roasted kumara-inspired sweet potato wedges.",
+    "id": 70
+  },
+  {
+    "name": "Fijian Coconut Vegetable Curry",
+    "country": "Fiji",
+    "cuisine": "Fijian-inspired",
+    "category": "Vegan",
+    "time": 30,
+    "servings": 3,
+    "ingredients": [
+      "coconut milk",
+      "pumpkin",
+      "potato",
+      "onion",
+      "curry powder"
+    ],
+    "instructions": [
+      "Sauté onion with curry powder.",
+      "Add diced vegetables and coconut milk.",
+      "Simmer until vegetables are soft."
+    ],
+    "description": "A simple island-style coconut curry.",
+    "id": 71
+  },
+  {
+    "name": "Samoan Coconut Vegetable Bowl",
+    "country": "Samoa",
+    "cuisine": "Samoan-inspired",
+    "category": "Vegan",
+    "time": 25,
+    "servings": 2,
+    "ingredients": [
+      "spinach",
+      "coconut milk",
+      "onion",
+      "garlic",
+      "rice"
+    ],
+    "instructions": [
+      "Sauté onion and garlic.",
+      "Add spinach and coconut milk and simmer gently.",
+      "Serve with rice."
+    ],
+    "description": "A greens-and-coconut dish inspired by island cooking.",
+    "id": 72
+  },
+  {
+    "name": "Mongolian Noodle Stir-Fry",
+    "country": "Mongolia",
+    "cuisine": "Mongolian-inspired",
+    "category": "Vegan",
+    "time": 25,
+    "servings": 2,
+    "ingredients": [
+      "noodles",
+      "carrot",
+      "cabbage",
+      "onion",
+      "soy sauce"
+    ],
+    "instructions": [
+      "Cook noodles according to packet instructions.",
+      "Stir-fry onion, carrot and cabbage.",
+      "Add noodles and soy sauce and toss until hot."
+    ],
+    "description": "A quick noodle stir-fry inspired by Mongolian home-style flavors.",
+    "id": 73
+  },
+  {
+    "name": "Uzbek Carrot Rice",
+    "country": "Uzbekistan",
+    "cuisine": "Uzbek-inspired",
+    "category": "Vegan",
+    "time": 40,
+    "servings": 3,
+    "ingredients": [
+      "rice",
+      "carrot",
+      "onion",
+      "cumin",
+      "garlic"
+    ],
+    "instructions": [
+      "Sauté onion and carrot until softened.",
+      "Add cumin, rice and water or stock.",
+      "Add garlic and cook covered until rice is tender."
+    ],
+    "description": "A simplified carrot rice inspired by plov.",
+    "id": 74
+  },
+  {
+    "name": "Kazakh Potato Pancakes",
+    "country": "Kazakhstan",
+    "cuisine": "Kazakh-inspired",
+    "category": "Vegetarian",
+    "time": 25,
+    "servings": 2,
+    "ingredients": [
+      "potato",
+      "egg",
+      "flour",
+      "onion",
+      "oil"
+    ],
+    "instructions": [
+      "Grate potato and onion and squeeze out excess liquid.",
+      "Mix with egg and flour.",
+      "Pan-fry small pancakes until cooked and golden."
+    ],
+    "description": "Crispy potato pancakes.",
+    "id": 75
+  },
+  {
+    "name": "Cambodian Vegetable Amok-Inspired Curry",
+    "country": "Cambodia",
+    "cuisine": "Cambodian-inspired",
+    "category": "Vegan",
+    "time": 30,
+    "servings": 3,
+    "ingredients": [
+      "coconut milk",
+      "pumpkin",
+      "spinach",
+      "lemongrass",
+      "rice"
+    ],
+    "instructions": [
+      "Warm coconut milk with finely chopped lemongrass.",
+      "Add pumpkin and simmer until tender.",
+      "Stir in spinach and serve with rice."
+    ],
+    "description": "A vegetable curry inspired by Cambodian amok flavors.",
+    "id": 76
+  },
+  {
+    "name": "Laotian Herb Rice Salad",
+    "country": "Laos",
+    "cuisine": "Lao-inspired",
+    "category": "Vegan",
+    "time": 20,
+    "servings": 2,
+    "ingredients": [
+      "cooked rice",
+      "mint",
+      "cilantro",
+      "lime",
+      "cucumber",
+      "peanuts"
+    ],
+    "instructions": [
+      "Cool cooked rice slightly.",
+      "Toss with chopped herbs, cucumber and lime.",
+      "Top with peanuts and serve."
+    ],
+    "description": "A bright herb-and-rice bowl.",
+    "id": 77
+  },
+  {
+    "name": "Myanmar Tea Leaf-Inspired Salad",
+    "country": "Myanmar",
+    "cuisine": "Burmese-inspired",
+    "category": "Vegan",
+    "time": 20,
+    "servings": 2,
+    "ingredients": [
+      "cabbage",
+      "tomato",
+      "peanuts",
+      "lime",
+      "garlic",
+      "sesame oil"
+    ],
+    "instructions": [
+      "Shred cabbage and chop tomato.",
+      "Mix lime, garlic and sesame oil for dressing.",
+      "Toss vegetables with peanuts and dressing."
+    ],
+    "description": "A crunchy salad inspired by Burmese tea leaf salad textures.",
+    "id": 78
+  },
+  {
+    "name": "Bhutanese Red Rice Bowl",
+    "country": "Bhutan",
+    "cuisine": "Bhutanese-inspired",
+    "category": "Vegan",
+    "time": 25,
+    "servings": 2,
+    "ingredients": [
+      "red rice",
+      "mushrooms",
+      "spinach",
+      "garlic",
+      "soy sauce"
+    ],
+    "instructions": [
+      "Cook red rice until tender.",
+      "Sauté mushrooms and garlic.",
+      "Add spinach and a little soy sauce, then serve over rice."
+    ],
+    "description": "A simple rice bowl inspired by Himalayan ingredients.",
+    "id": 79
+  },
+  {
+    "name": "Maldivian Coconut Tuna-Inspired Rice",
+    "country": "Maldives",
+    "cuisine": "Maldivian-inspired",
+    "category": "Non-vegetarian",
+    "time": 25,
+    "servings": 2,
+    "ingredients": [
+      "canned tuna",
+      "rice",
+      "coconut",
+      "onion",
+      "lime"
+    ],
+    "instructions": [
+      "Cook rice and set aside.",
+      "Sauté onion and mix with tuna and coconut.",
+      "Serve over rice with lime."
+    ],
+    "description": "A quick tuna-and-coconut rice bowl inspired by Maldivian flavors.",
+    "id": 80
+  }
+]
